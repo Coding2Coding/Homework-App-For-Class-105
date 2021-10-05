@@ -1,0 +1,12 @@
+#bodyTag {
+    background: linear-gradient(rgb(204, 232, 255) 0%, rgb(232, 214, 255) 100%);
+    color: #ffffff;
+}
+
+#camera {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #ffffff;
+    width: 400px;
+    height: 400px;
+}
